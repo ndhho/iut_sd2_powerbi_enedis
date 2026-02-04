@@ -6,25 +6,23 @@ Ce repository contient l’ensemble des livrables du projet Power BI sur l'entre
 
 ## Contenu du repository
 
-Fichier Power BI (.pbix) du tableau de bord
+* Fichier Power BI (.pbix) du tableau de bord
 
-Maquettes de l’application réalisée sur Canva
+* Maquettes de l’application réalisée sur Canva
 
-Charte graphique
+* Charte graphique
 
-Documentation technique
-
-Documentation fonctionnelle
+* Documentations technique et fonctionnelle
 
 ## Technologies utilisées
 
-Power Query pour la préparation des données
+* Power Query pour la préparation des données
 
-Power BI Desktop
+* Power BI Desktop
 
-DAX pour les mesures et indicateurs
+* DAX pour les mesures et indicateurs
 
-GitHub pour la gestion de version
+* GitHub pour la gestion de version
 
 ## Objectifs pédagogiques
 
