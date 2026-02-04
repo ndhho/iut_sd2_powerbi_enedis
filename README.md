@@ -1,10 +1,10 @@
 # iut_sd2_powerbi_enedis
 
-#Présentation du projet
+# Présentation du projet
 
 Ce repository contient l’ensemble des livrables du projet Power BI – Enedis, réalisé dans un cadre pédagogique (IUT SD2). L’objectif de l’application est d’analyser et de visualiser des données liées à l’activité du réseau électrique (indicateurs opérationnels, territoriaux et temporels) afin d’aider à la prise de décision.
 
-##Contenu du repository
+## Contenu du repository
 
 Fichier Power BI (.pbix) du tableau de bord
 
@@ -26,7 +26,7 @@ Power Query pour la préparation des données
 
 GitHub pour la gestion de version
 
-##Objectifs pédagogiques
+## Objectifs pédagogiques
 
 Concevoir un tableau de bord décisionnel
 
