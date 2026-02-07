@@ -3,6 +3,7 @@
 # Présentation du projet
 
 Ce repository contient l’ensemble des livrables du projet Power BI sur l'entreprise Enedis. L’objectif de l’application est d’analyser et de visualiser des données liées à l’activité du réseau électrique et de  comparer ces données entre les départements du Rhône (69) et du Nord (59) (indicateurs économiques, énergétique et qualité) afin d’aider à la prise de décision.
+
 [Lien](https://youtu.be/s39vkR1g2SU) vers la vidéo explcative du Dashboard 
 
 ## Contenu du repository
