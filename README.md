@@ -10,7 +10,7 @@ Ce repository contient l’ensemble des livrables du projet Power BI sur l'entre
 
 * Fichier Power BI (.pbix) du tableau de bord
 
-* APP Power BI déployée ([lien](https://app.powerbi.com/links/r14n_Yhdhc?ctid=a51a6642-5911-4306-a13c-f4731ab9c63f&pbi_source=linkShare))
+* APP Power BI déployée ([lien](https://app.powerbi.com/links/ZnBsQ3T-0g?ctid=a51a6642-5911-4306-a13c-f4731ab9c63f&pbi_source=linkShare))
 
 * Maquettes de l’application et Charte graphique réalisée sur [Canva](https://www.canva.com/design/DAG-TRJxh4c/x-73_N7uolA-p3F314g_UA/edit?utm_content=DAG-TRJxh4c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
